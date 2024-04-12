@@ -41,11 +41,4 @@
 [![SQL Injection](https://img.shields.io/badge/-💉&nbsp;&nbsp;SQL&nbsp;Injection-000000?style=flat)](https://github.com/adamalston/SQL-Injection)
 [![Spectre & Meltdown](https://img.shields.io/badge/-🛡️&nbsp;Spectre&nbsp;&&nbsp;Meltdown-000000?style=flat)](https://github.com/adamalston/Meltdown-Spectre)
 
-**Other projects**
-
-[![Clean My Mac](https://img.shields.io/badge/-🧼&nbsp;&nbsp;Clean&nbsp;My&nbsp;Mac-000000?style=flat)](https://github.com/adamalston/Clean-My-Mac)
-[![SMTP](https://img.shields.io/badge/-📧&nbsp;&nbsp;SMTP-000000?style=flat)](https://github.com/adamalston/SMTP)
-[![Network Tools](https://img.shields.io/badge/-📡&nbsp;&nbsp;Network&nbsp;Tools-000000?style=flat)](https://github.com/adamalston/Network-Tools)
-[![Cache Simulator](https://img.shields.io/badge/-⛓️&nbsp;Cache&nbsp;Simulator-000000?style=flat)](https://github.com/adamalston/CacheSimulator)
-[![RGB Text Colorizer](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000000?style=flat)](https://github.com/adamalston/rgbTextColorizer)
 
